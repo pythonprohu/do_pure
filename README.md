@@ -1,1 +1,2 @@
 # do_pure
+test
